@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: coral;
+    margin-left: auto;
+}
+h1{
+    color: rgb(56, 31, 23);
+}
+.BOARD {
+color: darksalmon;
+margin-left: auto;
+}
+.HEAR {
+    padding: 1ch;
+}
+button{
+    padding: 2ch;
+}
